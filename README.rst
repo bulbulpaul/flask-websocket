@@ -36,4 +36,4 @@ Licence
 Author
 ------
 
-'bulbulpaul <https://github.com/bulbulpaul>`_ 
+`bulbulpaul <https://github.com/bulbulpaul>`_ 
